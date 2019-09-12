@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Header>
+    <NotfType>NEGO_RESP</NotfType>
+    <ContentLen>226</ContentLen>
+    <DataFormat>XML</DataFormat>
+</Header>

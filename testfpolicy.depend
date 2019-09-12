@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1568235378 source:f:\testfpolicy\main.cpp
+	"fpolicyserver.h"
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlreader.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlIO.h>
+	<libxml/relaxng.h>
+	<libxml/xmlschemas.h>
+
+1308512438 f:\testfpolicy\libxml2\include\libxml\xmlversion.h
+	<libxml/xmlexports.h>
+	<ansidecl.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlexports.h
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\tree.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/xmlstring.h>
+	<libxml/xmlregexp.h>
+	<libxml/xmlmemory.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlstring.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlregexp.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\dict.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlmemory.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/threads.h>
+	<libxml/globals.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\threads.h
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\globals.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xmlerror.h>
+	<libxml/SAX.h>
+	<libxml/SAX2.h>
+	<libxml/xmlmemory.h>
+	<libxml/threads.h>
+
+1288879124 f:\testfpolicy\libxml2\include\libxml\parser.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+	<libxml/hash.h>
+	<libxml/valid.h>
+	<libxml/entities.h>
+	<libxml/xmlerror.h>
+	<libxml/xmlstring.h>
+	<libxml/encoding.h>
+	<libxml/xmlIO.h>
+	<libxml/globals.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\hash.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/dict.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\valid.h
+	<libxml/xmlversion.h>
+	<libxml/xmlerror.h>
+	<libxml/tree.h>
+	<libxml/list.h>
+	<libxml/xmlautomata.h>
+	<libxml/xmlregexp.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlerror.h
+	<libxml/parser.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\list.h
+	<libxml/xmlversion.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\xmlautomata.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlregexp.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\entities.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1288882432 f:\testfpolicy\libxml2\include\libxml\encoding.h
+	<libxml/xmlversion.h>
+	<iconv.h>
+	<unicode/ucnv.h>
+	<libxml/tree.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\xmlio.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+	<libxml/tree.h>
+	<libxml/parser.h>
+	<libxml/encoding.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\sax.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\xlink.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1253806320 f:\testfpolicy\libxml2\include\libxml\sax2.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\relaxng.h
+	<libxml/xmlversion.h>
+	<libxml/hash.h>
+	<libxml/xmlstring.h>
+
+1286864732 f:\testfpolicy\libxml2\include\libxml\xmlschemas.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1567985785 source:f:\testfpolicy\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1567985581 f:\testfpolicy\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1568225654 f:\testfpolicy\socketmanager.h
+	"TypeDef.h"
+
+1568229644 f:\testfpolicy\typedef.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<Windows.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sstream>
+	<unistd.h>
+	"tinyxml2.h"
+	<sys/time.h>
+	<fstream>
+	"SocketManager.h"
+
+1568233569 source:f:\testfpolicy\socketmanager.cpp
+	"SocketManager.h"
+
+1568231145 f:\testfpolicy\notifications.h
+	"TypeDef.h"
+
+1568230186 source:f:\testfpolicy\notifications.cpp
+	"notifications.h"
+
+1568228668 source:f:\testfpolicy\process.cpp
+	"Process.h"
+	<thread>
+
+1568228727 f:\testfpolicy\process.h
+
+1568235332 source:f:\testfpolicy\fpolicyserver.cpp
+	"fpolicyserver.h"
+
+1568235308 f:\testfpolicy\fpolicyserver.h
+	"SocketManager.h"
+	"notifications.h"
+
